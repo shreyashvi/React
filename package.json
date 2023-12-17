@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "\"App by shreya\"",
   "scripts": {
+    "start" : "parcel index.html",
+    "build" : "npx parcel index.html",
     "test": "jest"
   },
   "repository": {
